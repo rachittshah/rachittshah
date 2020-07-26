@@ -48,7 +48,7 @@ Note:These are not an indication of my skill level, just a overview of commits.
 [![Rachitt's github stats](https://github-readme-stats.vercel.app/api?username=godslayer201)](https://github.com/godlsayer201/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godslayer201)](https://github.com/godslayer201/github-readme-stats)
 
-<img align="centre" alt="GIF" src="https://media3.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" />
+
 
 
 
