@@ -48,14 +48,14 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Stats : **
+**Stats :**
 
 <b>Note :</b>  These are not an indication of my skill level, just a overview of commits.
 
 [![Rachitt's github stats](https://github-readme-stats.vercel.app/api?username=godslayer201)](https://github.com/godlsayer201/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godslayer201)](https://github.com/godslayer201/github-readme-stats)
 
-<i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b> 
+<u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
 
 
 
