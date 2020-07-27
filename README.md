@@ -32,6 +32,9 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 - 📫 How to reach me: Any of the Social-Media Platform.
 - ✨I'm into gaming,poetry and a cinema aficionado.
 
+<b>Hackerrank</b>: https://www.hackerrank.com/rachitt01
+<b>Codechef</b> : https://www.codechef.com/users/rachitt_shah20
+
 
 **Languages and Tools:**
 
