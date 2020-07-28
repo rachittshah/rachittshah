@@ -52,7 +52,7 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 
 **Stats :**
 
-<i>Note :</i>  These are not an indication of my skill level, just a overview of commits.
+<i>Note :</i>  These are not an indication of my skill level, just an overview of commits.
 
 [![Rachitt's github stats](https://github-readme-stats.vercel.app/api?username=godslayer201)](https://github.com/godlsayer201/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godslayer201)](https://github.com/godslayer201/github-readme-stats)
