@@ -57,6 +57,8 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
 
+<b>Please star this repo if you find it helpful!</b>
+
 
 
 
