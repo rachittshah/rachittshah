@@ -31,14 +31,16 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 - 💬 Ask me about anything , Would love to answer them.
 - 📫 How to reach me: Any of the Social-Media Platforms.
 - ✨I'm into gaming,poetry and a cinema aficionado.
-
+-  🔭 **I’m currently working on**
+![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
+ 
+ 
+ <i>Competitive coding handles</i>
+ <br>
 <b>Hackerrank</b>: https://www.hackerrank.com/rachitt01
 <br>
 <b>Codechef</b> : https://www.codechef.com/users/rachitt_shah20
-
--  🔭 **I’m currently working on**
-![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
-
+ <br>
 
 **Languages and Tools:**
 
