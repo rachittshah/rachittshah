@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Rachitt!](https://github.com/godslayer201)
+### Hello World 👋 It's [Rachitt!](https://gitstats.me/godslayer201)
 
 <br/>
 
