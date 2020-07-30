@@ -56,10 +56,6 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 
 **Stats :**  (https://gitstats.me/godslayer201)
 <br>
-<br>
-
-
-
 
 <i>Note :</i>  These are not an indication of my skill level, just an overview of commits.
 
