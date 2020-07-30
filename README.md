@@ -33,8 +33,6 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 - ✨I'm into gaming,poetry and a cinema aficionado.
 -  🔭 **I’m currently working on**
 ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
- 
- 
  -  **Competitive coding handles:**
  <br>
 <b>Hackerrank</b>: https://www.hackerrank.com/rachitt01
