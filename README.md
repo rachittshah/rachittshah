@@ -35,7 +35,7 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
  -  **Competitive coding handles:**
  
-<b>Hackerrank</b>: 
+<b>Hackerrank</b> : 
 https://www.hackerrank.com/rachitt01
 <br>
 <b>Codechef</b> : https://www.codechef.com/users/rachitt_shah20
