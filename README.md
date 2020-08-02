@@ -36,8 +36,7 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 -You can site my portfolio: https://godslayer201.github.io/
 
  
-<b>Hackerrank</b> : 
-https://www.hackerrank.com/rachitt01
+
 <br>
 <b>Codechef</b> : https://www.codechef.com/users/rachitt_shah20
 <br>
