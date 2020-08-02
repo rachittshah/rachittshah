@@ -38,8 +38,7 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
  
 
 
-<b>Codeforces</b> : https://codeforces.com/profile/Godslayer201
-<br>
+
 
  
 **Languages and Tools:**
