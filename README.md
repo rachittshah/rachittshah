@@ -64,10 +64,7 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 
 <b>Please star this repo if you find it helpful!</b>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/godslayer201/count.svg" />
-</p>
+
 
 
 
