@@ -17,7 +17,7 @@
 
 <br />
 
-Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform development,AWS and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile![![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform development,AWS and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile![![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
