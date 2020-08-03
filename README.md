@@ -17,7 +17,7 @@
 
 <br />
 
-Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform development,AWS and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile![![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)]
+Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform development,AWS and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -32,7 +32,7 @@ Hi,I'm Rachitt Shah🙌,I'm interested in web development,cross platform develop
 - 📫 How to reach me: Any of the Social-Media Platforms.
 - ✨I'm into gaming,poetry and a cinema aficionado.
 -  🔭 **I’m currently working on**
-![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
+![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 -You can site my portfolio: https://godslayer201.github.io/
 
  
