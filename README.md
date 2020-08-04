@@ -26,7 +26,7 @@ Hi,I'm Rachitt Shah🙌 ! I'm interested in web development,cross platform devel
 **About me:**
 
 - 🔭 I’m currently a Campus Ambassador at Coding blocks,Scaler Academy and Skillzena.
-- 🌱 I’m currently active in competitive programming.
+- 🌱 I’m active in competitive programming.
 - 👯 Curious about everything,hit me up!
 - 💬 Ask me about anything , Would love to answer them.
 - 📫 How to reach me: Any of the Social-Media Platforms.
