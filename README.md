@@ -12,8 +12,12 @@
 <a href="https://www.instagram.com/rachitt_shah/">
 <img align="left" alt="Rachitt Shah" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="mailto:rachitt01@gmail.com">
+    <img align="left" alt="Rachitt's mail address" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br />
+
 
 <br />
 
