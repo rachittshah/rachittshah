@@ -17,7 +17,8 @@
 Hi,I'm Rachitt Shah🙌 ! I'm interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 **About me:**
