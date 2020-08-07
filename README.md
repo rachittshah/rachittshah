@@ -14,7 +14,7 @@
 
 <br />
 
-Hi,I'm Rachitt Shah🙌 ! I'm interested in web development,cross platform development,AWS and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
+Hi,I'm Rachitt Shah🙌 ! I'm interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -22,7 +22,7 @@ Hi,I'm Rachitt Shah🙌 ! I'm interested in web development,cross platform devel
 
 **About me:**
 
-- 🔭 I’m currently a Campus Ambassador at Coding blocks,Scaler Academy and Skillzena.
+- 🔭 I’m a Campus Ambassador at Coding blocks,Scaler Academy and Skillzena.
 - 🌱 I’m active in competitive programming.
 - 👯 Curious about everything,hit me up!
 - 💬 Ask me about anything , Would love to answer them.
