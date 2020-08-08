@@ -10,6 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rachitt01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachitt01@gmail.com)](mailto:rachitt01@gmail.com)
 <br>
 
+
 Hi,I'm Rachitt Shah 🙌 ! I'm interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
 
 
