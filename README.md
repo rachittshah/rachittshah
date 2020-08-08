@@ -8,11 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@rachittshah20-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/rachittshah)](https://mobile.twitter.com/rachittshah)
 [![Instagram Badge](https://img.shields.io/badge/-@rachitt__shah-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/rachitt_shah/)](https://www.instagram.com/rachitt_shah/)
 [![Gmail Badge](https://img.shields.io/badge/-rachitt01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachitt01@gmail.com)](mailto:rachitt01@gmail.com)
-
-<br />
-
-
-<br />
+<br>
 
 Hi,I'm Rachitt Shah 🙌 ! I'm interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
 
