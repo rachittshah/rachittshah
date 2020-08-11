@@ -2,9 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
-  <br><br>
-
-
+  <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rachitt_Shah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachitt-shah/)](https://www.linkedin.com/in/rachitt-shah)
 [![Website Badge](https://img.shields.io/badge/-godslayer201.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)](https://godslayer201.github.io/)
