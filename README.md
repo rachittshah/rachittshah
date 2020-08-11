@@ -1,6 +1,9 @@
 ### Hello World 👋 It's [Rachitt!](https://godslayer201.github.io/)
 
-<br/>
+<p align="center">
+  <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
+  <br><br>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rachitt_Shah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachitt-shah/)](https://www.linkedin.com/in/rachitt-shah)
