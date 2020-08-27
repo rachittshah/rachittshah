@@ -87,7 +87,6 @@ Hi,I'm Rachitt Shah <img align="center" src="https://media.giphy.com/media/1fhj2
 
 <b>Please star this repo if you find it helpful!</b>
 
-[<img src="https://spotify-now-playing.godslayer201.vercel.app/api/spotify-playing" alt="Rachitt, Spotify Playing" width="350" />](https://open.spotify.com/user/jm2w9vqytop4rpz9n2m1gto11)
 
 
 
