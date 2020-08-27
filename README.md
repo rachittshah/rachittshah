@@ -1,5 +1,5 @@
 ### Hello World 👋 It's [Rachitt!](https://godslayer201.github.io/)
-<img src="download (2).png" class="work__image" alt="Project 1" />
+<img src="oie_27201458ZqH5iU3K.png" class="work__image" alt="Project 1" />
 <p align="center">
   <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
   <br>
