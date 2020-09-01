@@ -27,7 +27,7 @@ Hi,I'm Rachitt Shah <img align="center" src="https://media.giphy.com/media/1fhj2
 - 👯 Curious about everything,hit me up!
 - 💬 Ask me about anything , Would love to answer them.
 - 📫 How to reach me: Any of the Social-Media Platforms.
-- 👯 Part of the Management team @dscvitpune
+- 👯 Part of the Management team [@dscvitpune](https://github.com/dscvitpune)
 - ✨ I'm into gaming,poetry and a cinema aficionado.
 -  🔭 **I’m currently working on**
 ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
