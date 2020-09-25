@@ -86,7 +86,7 @@ Hi,I'm Rachitt Shah <img align="center" src="https://media.giphy.com/media/1fhj2
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
 
-<b>Please star this repo if you find it helpful!</b>
+
 
 
 
