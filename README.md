@@ -22,10 +22,9 @@ Hi,I'm Rachitt Shah <img align="center" src="https://media.giphy.com/media/1fhj2
 
 **About me:**
 
-- 🔭 I’m a Campus Ambassador at Coding blocks,Scaler Academy and Skillzena.
+
 - 🌱 I’m active in [Competitive Coding!](https://www.codechef.com/users/rachitt_shah20)
 - 👯 Curious about everything,hit me up!
-- 💬 Ask me about anything , Would love to answer them.
 - 📫 How to reach me: Any of the Social-Media Platforms.
 - 👯 Part of the Management team [@dscvitpune](https://github.com/dscvitpune)
 - ✨ I'm into gaming,poetry and a cinema aficionado.
