@@ -1,8 +1,7 @@
-### Hello World 👋 It's [Rachitt!](https://godslayer201.github.io/)
+<h1 align="center">Hi 👋, I'm Rachitt</h1>
+<h3 align="center">Full Stack Developer 👨‍💻 || Product Management || Python </h3>
 
-<p align="center">
-  <img src="https://github.com/yashagrawal300/yashagrawal300/blob/master/github.gif" width=100>
-  <br>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rachitt_Shah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachitt-shah/)](https://www.linkedin.com/in/rachitt-shah)
 [![Website Badge](https://img.shields.io/badge/-godslayer201.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)](https://godslayer201.github.io/)
@@ -13,9 +12,7 @@
 
 
 
-Hi,I'm Rachitt Shah <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> ! I'm interested in web development,cross platform development and Dev-Ops,and I'm active in competitive programming too. Glad that you visited my profile!
-
-Program Manager for Script Winter of Code,an open source program to get started with Open Source.  
+Hi,I'm Rachitt Shah <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> !   
 
 
 
