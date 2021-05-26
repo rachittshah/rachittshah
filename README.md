@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachitt</h1>
-<h3 align="center">Full Stack Developer 👨‍💻 || Product Management || Python </h3>
+<h3 align="center">GSoC'21 at OpenAstronomy | GSoD'21 at HPX | Product | Venture Capital </h3>
 
 
 
