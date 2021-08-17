@@ -74,12 +74,12 @@ Hi,I'm Rachitt Shah <img align="center" src="https://media.giphy.com/media/1fhj2
 
 
 
-**Stats :**  (https://gitstats.me/godslayer201)
+**Stats :**  (https://gitstats.me/rachittshah)
 <br>
 
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 
-[![Rachitt's github stats](https://github-readme-stats.vercel.app/api?username=godslayer201)](https://github.com/godlsayer201/github-readme-stats)
+[![Rachitt's github stats](https://github-readme-stats.vercel.app/api?username=rachittshah)](https://github.com/rachittshah/github-readme-stats)
 
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
