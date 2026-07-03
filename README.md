@@ -1,5 +1,7 @@
-I work with venture capital funds, software engineering and startups. 
+I led AI at [Accel](https://www.accel.com/). Before this, I was the founder of [Transfrm Labs](https://www.transfrm.in/)
 
-Areas of focus: SRE, Backend, LLMs and NLP.
+Areas of focus: Harnesses, Verfication systems, Evals, Inference, Infra and security engineering. 
 
-My profile caught your eye? [Get in touch.](https://www.linkedin.com/in/rachitt-shah/)
+I also like to study the history of software and how it's evolved. 
+
+[Get in touch.](https://www.linkedin.com/in/rachitt-shah/)
