@@ -9,10 +9,10 @@ I also like to study the history of software and how it's evolved.
 **Recent**
 
 <!-- RECENT:START -->
-- [steam-mcp](https://github.com/rachittshah/steam-mcp) — MCP server exposing the Steam Web API to any AI harness (Claude, Cursor…
-- [tasc](https://github.com/rachittshah/tasc) — Trace-Aware Serving Controller: eval-gated inference policy optimization
-- [mlx-tsfm](https://github.com/rachittshah/mlx-tsfm) — Time-Series Foundation Model inference on Apple Silicon, built on mlx /…
-- [google-research/timesfm#476](https://github.com/google-research/timesfm/pull/476) — Add an MLX (Apple silicon) backend for TimesFM 3.0
-- [v7t-codes/research-agent-workshop#1](https://github.com/v7t-codes/research-agent-workshop/pull/1) — Workshop prep: scorer calibration, practice references, bench integrati…
+- [steam-mcp](https://github.com/rachittshah/steam-mcp) — MCP server exposing the Steam Web API to any… <br><sub><i>Python · 1★ · updated 1d ago</i></sub>
+- [tasc](https://github.com/rachittshah/tasc) — Trace-Aware Serving Controller: eval-gated… <br><sub><i>TypeScript · updated 2d ago</i></sub>
+- [mlx-tsfm](https://github.com/rachittshah/mlx-tsfm) — Time-Series Foundation Model inference on… <br><sub><i>Python · 5★ · updated 5d ago</i></sub>
+- [google-research/timesfm#476](https://github.com/google-research/timesfm/pull/476) — Add an MLX (Apple silicon) backend for… <br><sub><i>open · 4d ago</i></sub>
+- [v7t-codes/research-agent-workshop#1](https://github.com/v7t-codes/research-agent-workshop/pull/1) — Workshop prep: scorer calibration, practice… <br><sub><i>merged · 5mo ago</i></sub>
 <!-- RECENT:END -->
 

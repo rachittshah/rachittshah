@@ -6,6 +6,7 @@ excluding forks and anything under the accel-com org. Run by a scheduled
 GitHub Action; safe to run locally with the `gh` CLI authenticated.
 """
 
+import datetime
 import json
 import pathlib
 import re
@@ -15,7 +16,7 @@ USER = "rachittshah"
 PROFILE_REPO = f"{USER}/{USER}"
 N_REPOS = 3
 N_PRS = 2
-DESC_MAX = 72
+DESC_MAX = 46
 
 
 def gh(*args: str) -> str:
@@ -24,11 +25,26 @@ def gh(*args: str) -> str:
 
 def clip(s: str) -> str:
   s = " ".join((s or "").split())
-  return s if len(s) <= DESC_MAX else s[: DESC_MAX - 1].rstrip() + "…"
+  if len(s) <= DESC_MAX:
+    return s
+  return s[:DESC_MAX].rsplit(" ", 1)[0] + "…"
 
 
-def line(label: str, url: str, desc: str) -> str:
-  return f"- [{label}]({url})" + (f" — {clip(desc)}" if desc else "")
+def rel(iso: str) -> str:
+  d = datetime.datetime.fromisoformat(iso.replace("Z", "+00:00"))
+  days = (datetime.datetime.now(datetime.timezone.utc) - d).days
+  if days <= 0:
+    return "today"
+  if days < 30:
+    return f"{days}d ago"
+  if days < 365:
+    return f"{days // 30}mo ago"
+  return f"{days // 365}y ago"
+
+
+def item(label: str, url: str, desc: str, meta: str) -> str:
+  head = f"- [{label}]({url})" + (f" — {clip(desc)}" if desc else "")
+  return f"{head} <br><sub><i>{meta}</i></sub>"
 
 
 def latest_repos() -> list[str]:
@@ -37,7 +53,11 @@ def latest_repos() -> list[str]:
   for r in repos:
     if r["fork"] or r["archived"] or r["full_name"] == PROFILE_REPO:
       continue
-    out.append(line(r["name"], r["html_url"], r["description"]))
+    bits = [r["language"] or "—"]
+    if r["stargazers_count"]:
+      bits.append(f"{r['stargazers_count']}★")
+    bits.append(f"updated {rel(r['pushed_at'])}")
+    out.append(item(r["name"], r["html_url"], r["description"], " · ".join(bits)))
     if len(out) >= N_REPOS:
       break
   return out
@@ -52,7 +72,9 @@ def latest_prs() -> list[str]:
     if it["state"] == "closed" and not merged:
       continue  # skip closed-unmerged
     owner_repo = "/".join(it["repository_url"].split("/")[-2:])
-    out.append(line(f"{owner_repo}#{it['number']}", it["html_url"], it["title"]))
+    state = "merged" if merged else it["state"]
+    meta = f"{state} · {rel(it['created_at'])}"
+    out.append(item(f"{owner_repo}#{it['number']}", it["html_url"], it["title"], meta))
     if len(out) >= N_PRS:
       break
   return out
