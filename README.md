@@ -1,4 +1,4 @@
-I lead AI at [Accel](https://www.accel.com/). Before this, I was the founder of [Transfrm Labs](https://www.transfrm.in/)
+Building [Transfrm Labs](https://www.transfrm.in/).
 
 Areas of focus: RL, Harnesses, Verfication systems, Evals, Inference, Infra and security engineering. 
 
